@@ -1,0 +1,1 @@
+Extract the file named 'NLU_Intent_Classification.zip' to obtain the model for use.
